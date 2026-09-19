@@ -49,7 +49,7 @@ Anthropic certifications: Claude 101, Claude Code 101, Claude Cowork.
 
 ### Working with AI
 
-Claude Code is where most of my day happens — agents, skills and automated pipelines for content production, plus n8n for everything that has to run without me. The contribution graph above is mostly private repositories: internal tooling, generators and site builds for [AI Mindset](https://aimindset.org), where I work as a content marketer.
+Claude Code is where most of my day happens — agents, skills and automated pipelines for content production, plus n8n for everything that has to run without me. Contributor to [murmur](https://github.com/alexfrmn/murmur) — an encrypted agent-to-agent messaging bus for AI coding agents. The contribution graph above is mostly private repositories: internal tooling, generators and site builds for [AI Mindset](https://aimindset.org), where I work as a content marketer.
 
 ---
 

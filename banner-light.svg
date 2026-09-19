@@ -8,11 +8,10 @@
 </g>
 <ellipse cx="894" cy="200" rx="387" ry="227" fill="url(#bloom)"><animate attributeName="opacity" values="0.55;1;0.55" dur="7s" repeatCount="indefinite"/></ellipse>
 <g font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace">
-<rect x="85" y="78" width="141" height="34" rx="3" fill="none" stroke="#111210" stroke-width="1.5"/>
-<text x="98" y="101" font-size="16" font-weight="700" letter-spacing="1.2" fill="#111210">{ai creator}</text>
+<rect x="85" y="78" width="208" height="34" rx="3" fill="none" stroke="#111210" stroke-width="1.5"/>
+<text x="98" y="101" font-size="16" font-weight="700" letter-spacing="1.2" fill="#111210">PhD Candidate in AI</text>
 <text x="85" y="186" font-size="48" font-weight="800" letter-spacing="-0.5" fill="#111210">Mykhailo Yatsenko</text>
-<text x="85" y="228" font-size="21" fill="#3D423C">AI video &#183; generative content</text>
-<text x="85" y="266" font-size="13.5" letter-spacing="0.4" fill="#7C817A">15+ yrs in VFX &amp; 3D &#183; Sony Music &#183; AT&amp;T &#183; Autodesk</text>
+<text x="85" y="228" font-size="17" letter-spacing="0.2" fill="#3D423C">15+ yrs in VFX &amp; 3D &#183; Sony Music &#183; AT&amp;T &#183; Autodesk</text>
 <text x="85" y="336" font-size="17" font-weight="700" letter-spacing="0.6" fill="#111210">mykhailus.netlify.app</text>
 <rect x="293" y="322" width="10" height="18" fill="#30A14E"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
 </g>

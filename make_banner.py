@@ -81,7 +81,7 @@ def build(theme_name):
     tx = 85
     o.write(f'<g font-family="{MONO}">\n')
     # тег в рамке
-    tag = "{ai creator}"
+    tag = "PhD Candidate in AI"
     tag_w = len(tag) * 9.6 + 26
     o.write(f'<rect x="{tx}" y="78" width="{tag_w:.0f}" height="34" rx="3" fill="none" '
             f'stroke="{T["ink"]}" stroke-width="1.5"/>\n')
@@ -91,9 +91,7 @@ def build(theme_name):
     o.write(f'<text x="{tx}" y="186" font-size="48" font-weight="800" letter-spacing="-0.5" '
             f'fill="{T["ink"]}">Mykhailo Yatsenko</text>\n')
     # подзаголовок
-    o.write(f'<text x="{tx}" y="228" font-size="21" fill="{T["sub"]}">AI video &#183; generative content</text>\n')
-    # пояснение
-    o.write(f'<text x="{tx}" y="266" font-size="13.5" letter-spacing="0.4" fill="{T["mute"]}">'
+    o.write(f'<text x="{tx}" y="228" font-size="17" letter-spacing="0.2" fill="{T["sub"]}">'
             f'15+ yrs in VFX &amp; 3D &#183; Sony Music &#183; AT&amp;T &#183; Autodesk</text>\n')
     # домен + курсор
     o.write(f'<text x="{tx}" y="336" font-size="17" font-weight="700" letter-spacing="0.6" '
