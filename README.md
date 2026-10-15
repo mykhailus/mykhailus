@@ -43,6 +43,8 @@ Gold medal, 17th International Exhibition "Modern Educational Institutions" (Nat
 
 Anthropic certifications: Claude 101, Claude Code 101, Claude Cowork.
 
+[AI Mindset](https://aimindset.org) labs: Marketing Sprint — Marketing Machine × AI (2026), [X26 Spring Lab {BLOOM}](https://learn.aimindset.org/x26) — AI-Native Creative, S1 Personal OS, S2 and S3 AI-Native Organizations.
+
 </td>
 </tr>
 </table>
